@@ -15,7 +15,7 @@
 
 - ✨ I have been selected as Microsoft Engage Mentee'21 and worked on the Microsoft teams project.
 - ⚡ I have previously interned at Mavenir and SamarthaInfo Solutions.
- - 🌱 I’m currently learning Blockchain Y Linux 
+ - 🌱 I’m currently interning as an SWE at Microsoft.
 
   
 
