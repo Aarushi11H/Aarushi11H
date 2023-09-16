@@ -10,12 +10,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m a third year undergrad at NIT Kurukshetra pursuing Information Technology.
-  
-
-- ✨ I have been selected as Microsoft Engage Mentee'21 and worked on the Microsoft teams project.
-- ⚡ I have previously interned at Mavenir and SamarthaInfo Solutions.
- - 🌱 I’m currently interning as an SWE at Microsoft.
+- ✨ SWE at Micrsoft.
+- ⚡ Previously interned at Microsoft, Mavenir and SamarthaInfo Solutions.
+- 🔭 NIT Kurukshetra, IT
 
   
 
@@ -41,16 +38,12 @@
 <code><img height="20" src="https://mpng.subpng.com/20180604/xox/kisspng-web-development-express-js-javascript-software-fra-frame-work-5b15153ce5bb85.615845371528108348941.jpg"></code>
 
 
-
-<br>
-<h2> Stats  </h2>
-<br>
-<p>
-<img align="left" src='https://github-readme-stats.vercel.app/api?username=aarushi11h&show_icons=true&theme=radical&count_private=true'/>
+<h2> GitHub analytics </h2>
+<p align="center">
+<a href="https://github.com/Aarushi11H">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aarushi11H&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
 </p>
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aarushi11h&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Aarushi" /> </p>
-
 
 
 
